@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CS: ai & ml<br>⚡ Fun fact : love making keyboard 
+🌱 I’m currently learning CS: AI & ml<br>⚡ Fun fact : love making keyboard 
 
 
 ## 🌐 Socials:
