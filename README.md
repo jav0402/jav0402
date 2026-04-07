@@ -31,3 +31,15 @@
 [![](https://visitcount.itsvg.in/api?id=jav0402&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Scraper Safety Mechanism
+
+If the scraper encounters a critical issue, the system will automatically stop the scraping process and send an email notification to alert the user. This helps prevent repeated failures, unnecessary requests, or incorrect data collection.
+
+Typical cases that trigger this behaviour include:
+- website structure changes
+- repeated request failures
+- blocked access or rate limiting
+- unexpected parsing errors
+
+Once triggered, the scraper is halted until the issue is checked and resolved.
