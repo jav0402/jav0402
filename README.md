@@ -19,29 +19,36 @@ Computer Science undergraduate (BSc Hons, Second Class Upper) specializing in Ma
 
 ## 🚀 Featured Projects
 
-### 1. Software Development
-* **[repository-name-1](https://github.com/jav0402/repository-name-1)** — *Cross-platform mobile and full-stack web applications.*
-  * Engineered robust backend services and responsive frontends using React Native, Node.js, and FastAPI.
-  * Implemented secure authentication layers, RESTful APIs, and relational database schemas.
+### 💻 Software Engineering
+* **[Uplift](https://github.com/jav0402/uplift-appication)** — *Cross-platform mental health mobile application.*
+  * Built a responsive mobile UI using React Native, Expo, and Tailwind CSS.
+  * Engineered a Node.js/Express backend with SQLite for secure data storage and implemented JWT authentication.
+   
+* **[Order Book & Trading Simulator](https://github.com/jav0402/OOP)** — *Object-oriented financial matching engine in C++.*
+  * Engineered a high-performance matching engine to process bids and asks across financial timeframes.
+  * Programmed custom algorithms for terminal-based candlestick charts and multi-currency digital wallets.
 
-### 2. Cloud & Infrastructure
-* **[repository-name-2](https://github.com/jav0402/repository-name-2)** — *Cloud-ready containerized microservices and deployment automation.*
-  * Configured automated testing suites, environment management configurations, and structured logging.
-  * Applied AWS principles and containerization practices to ensure application scalability and reliability.
+### ☁️ Cloud & Infrastructure
+* **[AI Calorie Counter](https://github.com/jav0402/3070)** — *Cloud-ready full-stack machine learning application.*
+  * Developed a scalable microservice architecture using FastAPI, Uvicorn, and structured backend logging.
+  * Integrated SigLIP and ResNet-50 AI pipelines alongside automated testing and secure token encryption.
 
-### 3. Data Engineering & Machine Learning
-* **[repository-name-3](https://github.com/jav0402/repository-name-3)** — *Automated data pipelines, ETL workflows, and predictive models.*
-  * Processed, cleaned, and ingested large-scale datasets into structured SQL databases.
-  * Developed machine learning and NLP pipelines using PyTorch, Scikit-learn, and Pandas to transform raw data into actionable insights.
+### 📊 Data Engineering & Analytics
+* **[SpaceX Launch Prediction Dashboard](https://github.com/jav0402/datascience)** — *End-to-end data pipeline and web analytics app.*
+  * Extracted and cleaned Falcon 9 launch data using BeautifulSoup and Pandas.
+  * Built an interactive Plotly Dash web application backed by SQLite to visualize historical success rates.
+* **[NLP News Topic Classification](https://github.com/jav0402/NLP-News-Classification)** — *Machine learning text classification pipeline.*
+  * Processed and tokenized thousands of news articles using NLTK and Pandas for automated categorization.
+  * Trained and evaluated TF-IDF Logistic Regression, Word2Vec, and fine-tuned BERT models using PyTorch.
 
 ---
 
 ## 💼 Professional Background
 
 * **Republic of Singapore Air Force (RSAF)** — *Flight Line Crew / 3rd Sergeant* (Jul 2020 – Jul 2022)
-  * Managed high-stakes operations and safety compliance under strict military procedures.
+  * Maintained strict compliance with operational protocols and safety regulations in mission-critical environments.
 * **ST Aerospace (SASCO)** — *Assistant Planning Officer* (Sep 2019 – Feb 2020)
-  * Optimized workflow scheduling, tracked project milestones, and managed resource tracking systems.
+  * Optimized workflow schedules and managed resource tracking software systems to streamline hangar operations.
 
 ---
 
