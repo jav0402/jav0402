@@ -23,7 +23,6 @@ Computer Science undergraduate (BSc Hons, Second Class Upper) specializing in Ma
 * **[Uplift](https://github.com/jav0402/uplift-appication)** — *Cross-platform mental health mobile application.*
   * Built a responsive mobile UI using React Native, Expo, and Tailwind CSS.
   * Engineered a Node.js/Express backend with SQLite for secure data storage and implemented JWT authentication.
-   
 * **[Order Book & Trading Simulator](https://github.com/jav0402/OOP)** — *Object-oriented financial matching engine in C++.*
   * Engineered a high-performance matching engine to process bids and asks across financial timeframes.
   * Programmed custom algorithms for terminal-based candlestick charts and multi-currency digital wallets.
@@ -37,7 +36,7 @@ Computer Science undergraduate (BSc Hons, Second Class Upper) specializing in Ma
 * **[SpaceX Launch Prediction Dashboard](https://github.com/jav0402/datascience)** — *End-to-end data pipeline and web analytics app.*
   * Extracted and cleaned Falcon 9 launch data using BeautifulSoup and Pandas.
   * Built an interactive Plotly Dash web application backed by SQLite to visualize historical success rates.
-* **[NLP News Topic Classification](https://github.com/jav0402/NLP-News-Classification)** — *Machine learning text classification pipeline.*
+* **[NLP News Topic Classification](https://github.com/jav0402/NLP)** — *Machine learning text classification pipeline.*
   * Processed and tokenized thousands of news articles using NLTK and Pandas for automated categorization.
   * Trained and evaluated TF-IDF Logistic Regression, Word2Vec, and fine-tuned BERT models using PyTorch.
 
@@ -47,6 +46,7 @@ Computer Science undergraduate (BSc Hons, Second Class Upper) specializing in Ma
 
 * **Republic of Singapore Air Force (RSAF)** — *Flight Line Crew / 3rd Sergeant* (Jul 2020 – Jul 2022)
   * Maintained strict compliance with operational protocols and safety regulations in mission-critical environments.
+
 * **ST Aerospace (SASCO)** — *Assistant Planning Officer* (Sep 2019 – Feb 2020)
   * Optimized workflow schedules and managed resource tracking software systems to streamline hangar operations.
 
